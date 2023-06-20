@@ -1,0 +1,66 @@
+@font-face{
+    font-family: nast;
+    src: url(../fonts/nastealiq.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: titr;
+    src: url(../fonts/BTITRBD.TTF);
+}
+
+@font-face {
+    font-family: iransans;
+    src: url(../fonts/sans.ttf);
+}
+
+@font-face {
+    font-family: nazanin;
+    src: url(../fonts/BNAZANIN.TTF);
+}
+
+@font-face {
+    font-family: mitra;
+    src: url(../fonts/BMITRA.TTF);
+}
+.titr{
+    font-family: titr;
+}
+
+.iransans{
+    font-family: iransans;
+}
+
+.nazanin{
+    font-family: nazanin;
+}
+
+
+#logo-img {
+    width: 80px;
+}
+
+#logo-text {
+    font-family: nast;
+}
+
+#main-page-header {
+    font-family: titr;
+}
+
+.content-page {
+    font-family: iransans;
+}
+
+.content{
+    direction: rtl;
+}
+
+.sidebar{
+    direction: rtl;
+}
+
+body{
+    direction: rtl;
+}
+
